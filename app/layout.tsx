@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Point Adveture - AI-Powered Points Adventure for Smarter Rewards",
-  description: "Point Adveture is your AI guide to earning and maximizing points. Get instant, unbiased guidance — no salespeople, no pressure.",
+  title: "Point Adveture - Online Gaming Adventures That Earn You Aura Points",
+  description: "Point Adveture is the online gaming platform where every quest earns you aura. Go on epic adventures, level up, and collect your rewards.",
 };
 
 export default function RootLayout({
