@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             Point Adveture<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            800 N King Street 304-1991, Wilmington, DE 19801<br />
             Email: <a href="mailto:support@pointadveture.com" style={{ color: '#10B981' }}>support@pointadveture.com</a>
           </p>
         </div>
