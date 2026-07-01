@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#A7F3D0' }}>support@pointadveture.com</p>
-            <p className="mt-2" style={{ color: '#A7F3D0' }}>8 The Green, Ste A, Dover, DE 19901</p>
+            <p className="mt-2" style={{ color: '#A7F3D0' }}>800 N King Street 304-1991, Wilmington, DE 19801</p>
             <p className="mt-2" style={{ color: '#A7F3D0' }}>(833) 571-9204</p>
           </div>
         </div>
