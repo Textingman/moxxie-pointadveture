@@ -17,15 +17,15 @@ export default function HomePage() {
               AI-Powered — 100% Independent
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
-              Your Points Adventure
-              <span className="block" style={{ color: '#10B981' }}>Guided by AI</span>
+              Epic Gaming Adventures
+              <span className="block" style={{ color: '#10B981' }}>Earn Aura Every Quest</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Embark on your points adventure with AI-powered guidance — discover how to earn more, spend smarter, and maximize every reward.
+              Embark on epic online gaming adventures, complete quests, and earn aura with every victory. The adventure never stops — and neither do the rewards.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link href="/signup" className="px-8 py-4 text-white text-lg font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#10B981' }}>
-                Start Your Adventure
+                Begin Your Adventure
               </Link>
               <Link href="/about" className="px-8 py-4 text-lg font-semibold rounded-lg transition-opacity hover:opacity-90 border-2" style={{ color: '#10B981', borderColor: '#10B981', backgroundColor: '#FFFFFF' }}>
                 How It Works
@@ -80,7 +80,7 @@ export default function HomePage() {
           <h2 className="text-4xl font-bold mb-6" style={{ color: '#1F2937' }}>Ready to Get Started?</h2>
           <p className="text-xl mb-10" style={{ color: '#6B7280' }}>Join thousands of people who trust Point Adveture for clear, unbiased guidance.</p>
           <Link href="/signup" className="px-10 py-5 text-white text-xl font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#10B981' }}>
-            Start Your Adventure
+            Begin Your Adventure
           </Link>
         </div>
       </section>
