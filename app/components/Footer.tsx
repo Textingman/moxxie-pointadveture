@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Point Adveture</h3>
             <p style={{ color: '#A7F3D0' }}>
-              Your AI adventure guide to earning and maximizing points.
+              Go on epic online gaming adventures and earn aura with every quest.
             </p>
             {/* Social Icons */}
             <div className="flex items-center gap-4 mt-4">
@@ -32,7 +32,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Product</h4>
             <ul className="space-y-2">
               <li><Link href="/about" style={{ color: '#A7F3D0' }} className="hover:text-white">About</Link></li>
-              <li><Link href="/signup" style={{ color: '#A7F3D0' }} className="hover:text-white">Start Your Adventure</Link></li>
+              <li><Link href="/signup" style={{ color: '#A7F3D0' }} className="hover:text-white">Begin Your Adventure</Link></li>
             </ul>
           </div>
           <div>
